@@ -1,1 +1,2 @@
 # StockPerformance
+![Screenshot](StockPerf.png)
